@@ -1,0 +1,62 @@
+html {
+    -webkit-text-size-adjust: 100%;
+}
+body {
+    background-color: grey;
+}
+.alert {
+    text-align: center;
+    background-color: purple;
+    color: white;
+    font-size: 15px;
+    font-weight: inherit;
+    font-family: monospace, 'Times New Roman', Times, serif;
+    text-emphasis: none;
+    margin-bottom: 0rem;
+}
+#main {
+    width: auto;
+}
+.navbar {
+    background-color: burlywood;
+    text-decoration: none;
+    font-size: inherit;
+    font-weight: bold;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    top: 0%;
+}
+.ads1 {
+    background-color: whitesmoke;
+    padding: 0pt 1pt 0pt 1pt;
+    margin: 2pt 2pt 0 2pt;
+    display: block;
+    grid: inherit;
+}
+.ads1 img {
+    padding: 1pt 0 1pt 1pt;
+    border-color: yellowgreen;
+    border-style: solid;
+}
+.ads2 {
+    background-color: thistle;
+    padding: 0pt 1pt 0pt 1pt;
+    margin: 5pt 2pt 0 2pt;
+}
+.ads3 {
+    background-color: teal;
+    padding: 0pt 1pt 0pt 1pt;
+    margin: 5pt 2pt 0 2pt;
+}
+.article {
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+p {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+}
+h4 {
+    text-align: left;
+    margin-top: 15pt;
+}
